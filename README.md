@@ -1,5 +1,4 @@
 # Quiz-Game-Trial
-# Quiz-Game-Trial
 
 # Computer Quiz Game 🎮
 Welcome to Computer Quiz Game — a fun and simple Python-based terminal quiz that tests your knowledge with 5 interesting questions!
